@@ -1,0 +1,36 @@
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    border: 1px solid black;
+}
+.product_img{
+    margin-right: 200px;
+}
+.title{
+    margin-right: 200px;
+}
+.price{
+    margin-right: 200px;
+}
+h3{
+    padding: 2px;
+}
+.Button{
+    display: flex;
+    margin-right: 200px;
+}
+.Btn{
+    width: 70px;
+    background-color: green;
+    border-radius: 10%;
+    color: white;
+
+}
+.total{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 14px;
+}

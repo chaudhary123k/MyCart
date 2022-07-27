@@ -1,0 +1,8 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: gray;
+}
